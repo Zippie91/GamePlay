@@ -1,0 +1,12 @@
+{
+  "name": "gameplay",
+  "version": "1.0.0",
+  "description": "Play Tournaments and Create parties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"watch": "gulp watch --gulpfile client/gulpfile.babel.js"
+  },
+  "author": "Raf Smits",
+  "license": "ISC"
+}
