@@ -15,7 +15,7 @@
     "url": "https://github.com/Zippie91/GamePlay"
   },
   "engines": {
-    "node": "4.4.7"
+    "node": "6.3.0"
   },
   "dependencies": {
     "angular": "^1.5.7",
