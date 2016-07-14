@@ -1,3 +1,3 @@
 import angular from 'angular'
 
-angular.module('GamePlay', [])
+angular.module('GamePlay', []);
